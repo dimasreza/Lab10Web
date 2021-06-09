@@ -35,6 +35,5 @@ Setelah itu, lalu taruh file `form_input.php` di folder `Lab10_php_oop` pada dir
 ![SS LANGKAH 4 (OOP) (2)](https://user-images.githubusercontent.com/56240719/121276117-3b768600-c8f8-11eb-9e47-ad70380a0b5f.png)
 
 ## Berikut adalah hasil dari kode yang di input di Visual Studio Code tadi.
-![SS OUTPUT 2 (OOP)](https://user-images.githubusercontent.com/56240719/121276277-91e3c480-c8f8-11eb-9a91-cfda7650bb3e.png)
-
+![SS OUTPUT 2 (OOP)](https://user-images.githubusercontent.com/56240719/121352410-09484100-c957-11eb-91f3-71501671bd3c.png)
 
